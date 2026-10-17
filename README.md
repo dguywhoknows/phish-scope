@@ -8,7 +8,7 @@ Live: https://dguywhoknows.github.io/phishing-email-analyzer/
 
 ## Overview
 
-Phish Scope runs a set of explainable checks entirely in your browser. It parses raw headers to read SPF/DKIM/DMARC results, Reply-To and Return-Path mismatches, and display-name spoofing. It pulls every link out of HTML, Markdown and plain text, then flags text/destination mismatches, raw IPs, punycode, high-abuse TLDs, shorteners and the '@' trick. It catches lookalike domains with Levenshtein distance plus homoglyph folding (rn→m, 0→o, 1→l), scores urgency, credential, money and threat language, and highlights it in the body. Each signal adds a visible weight to a 0-100 risk score. An optional AI analyst then gives a plain-language verdict with do's and don'ts.
+Second Look runs a set of explainable checks entirely in your browser. It parses raw headers to read SPF/DKIM/DMARC results, Reply-To and Return-Path mismatches, and display-name spoofing. It pulls every link out of HTML, Markdown and plain text, then flags text/destination mismatches, raw IPs, punycode, high-abuse TLDs, shorteners and the '@' trick. It catches lookalike domains with Levenshtein distance plus homoglyph folding (rn→m, 0→o, 1→l), scores urgency, credential, money and threat language, and highlights it in the body. Each signal adds a visible weight to a 0-100 risk score. An optional AI analyst then gives a plain-language verdict with do's and don'ts.
 
 ## Pages
 
